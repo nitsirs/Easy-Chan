@@ -1,0 +1,5 @@
+py
+pip
+typing-extensions
+pandas
+streamlit
