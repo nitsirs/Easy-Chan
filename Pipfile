@@ -5,8 +5,7 @@ name = "pypi"
 
 [packages]
 streamlit = "*"
-pandas = "*"
-typing_extensions = "*"
+pandas = "1.4.2"
 
 [dev-packages]
 
